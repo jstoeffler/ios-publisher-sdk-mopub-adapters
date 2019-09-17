@@ -17,7 +17,7 @@
 // limitations under the License.
 
 #import <UIKit/UIKit.h>
-#import "MoPub.h"
+@import MoPubSDKFramework;
 #import <CriteoPublisherSdk/CriteoPublisherSdk.h>
 
 NS_ASSUME_NONNULL_BEGIN

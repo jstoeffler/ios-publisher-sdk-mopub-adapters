@@ -17,7 +17,7 @@
 // limitations under the License.
 
 #import <Foundation/Foundation.h>
-#import "MoPub.h"
+@import MoPubSDKFramework;
 @import CriteoPublisherSdk;
 
 NS_ASSUME_NONNULL_BEGIN

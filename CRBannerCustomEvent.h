@@ -17,7 +17,7 @@
 // limitations under the License.
 
 #import <Foundation/Foundation.h>
-#import "MoPub.h"
+@import MoPubSDKFramework;
 #import "CRCriteoAdapterConfiguration.h"
 @import CriteoPublisherSdk;
 
